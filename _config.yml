@@ -14,7 +14,7 @@ defaults:
     values:
       image: true
 
-title: Minimalism
+title: Huyang blog
 name: minimalism
 description: Minimalism is a jekyll theme for minimalist
 
